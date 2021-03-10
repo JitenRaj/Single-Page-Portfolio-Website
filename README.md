@@ -7,7 +7,7 @@ It's a simple portfolio website. It consists 6 sections.
 It is based on Graphic Design, Web Design and Development Services.
 <br>
 
-![Watch Now](https://github.com/ji10raj/Single-Page-Portfolio-Website/blob/main/Home.png?raw=true)
+<img src="https://github.com/ji10raj/Single-Page-Portfolio-Website/blob/main/Screenshots/Home.PNG" width=95%>
 
 <b>Coded and Designed by [Jiten](https://github.com/Ji10raj) </b>
 
