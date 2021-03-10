@@ -7,7 +7,7 @@ It's a simple portfolio website. It consists 6 sections.
 It is based on Graphic Design, Web Design and Development Services.
 
 <b> Home : </b>
-![Watch Now](./screenshots/Home.PNG) <br>
+![Watch Now](https://ibb.co/QJYD2ss) <br>
 <b> Services : </b>
 ![Watch Now](./screenshots/Services.PNG) <br>
 <b> Projects : </b>
