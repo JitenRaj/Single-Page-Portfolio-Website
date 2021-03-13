@@ -1,7 +1,7 @@
 # Ji10 Design | Portfolio Website.
 ##  Single page Portfolio Website. 
 
-[Portfolio Website](https://bit.ly/Ji10Design)
+<b> [Ji10 Design](https://bit.ly/Ji10Design) | [Portfolio Website](https://ji10raj.github.io/Ji10-Design.github.io/) <b>
 
 This project is made using HTML,CSS &amp; JavaScript.
 
