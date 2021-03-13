@@ -1,6 +1,8 @@
 # Ji10 Design | Portfolio Website.
 ##  Single page Portfolio Website. 
 
+[Portfolio Website](https://bit.ly/Ji10Design)
+
 This project is made using HTML,CSS &amp; JavaScript.
 
 It's a simple portfolio website. It consists 6 sections.
